@@ -71,16 +71,6 @@
   </a>
 </p>
 
----
-
-### 🐍 Snake Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KANEEZ-FATIMA18/KANEEZ-FATIMA18/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-> 🌟 *“Code with curiosity, learn with passion, and build with creativity!”*
 
 
 
