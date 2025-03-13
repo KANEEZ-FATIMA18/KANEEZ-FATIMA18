@@ -61,16 +61,28 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="mailto:kaneezfatima374@gmail.com" target="_blank">
+  <a href="mailto:k.fatima182005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kaneez-fatima-09056132a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="+923352667596" target="_blank">
+ <a href="https://discord.com/kan_eezfatima18_95662" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/923352667596" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact on WhatsApp" />
 </a>
+ 
+ <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C084FC?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
   <a href="https://my-personal-portfolio-one-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
