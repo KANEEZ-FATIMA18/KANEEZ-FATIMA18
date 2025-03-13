@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Student | Passionate Learner |  Agentic AI & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Explorer+and+Creative+Mind;Frontend+Web+Developer+%7C+AI+Enthusiast;Building+Agentic+AI+Solutions+%7C+Streamlit+Dashboards;Learning+by+Doing+and+Sharing!&center=true&width=1000&height=55&color=FF69B4&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Explorer+and+Creative+Mind;Frontend+Web+Developer+%7C+AI+Enthusiast;Building+Agentic+AI+Solutions+%7C+Streamlit+Dashboards;Learning+by+Doing+and+Sharing!&center=true&width=1000&height=61&color=FF69B4&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
