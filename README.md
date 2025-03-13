@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaneez Fatima</h1>
-<h3 align="center">👩‍💻 Student | Passionate Learner | Agentic AI & Web Developer</h3>
+<h3 align="center">👩‍💻 Student | Passionate Learner |  Agentic AI & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Explorer+and+Creative+Mind;Frontend+Web+Developer+%7C+AI+Enthusiast;Building+Agentic+AI+Solutions+%7C+Streamlit+Dashboards;Learning+by+Doing+and+Sharing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Explorer+and+Creative+Mind;Frontend+Web+Developer+%7C+AI+Enthusiast;Building+Agentic+AI+Solutions+%7C+Streamlit+Dashboards;Learning+by+Doing+and+Sharing!&center=true&width=1000&height=55&color=FF69B4&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,19 +24,20 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-339933?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/sanity.io-FF4B4B?style=for-the-badge&logo=sanity.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-f627f?style=for-the-badge&logo=vercel.com&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 ### 🌟 Featured Projects
 - 🔍 AI-Powered Tools & Prompt Engineering Projects
 - 🧠 LangChain and Agentic AI Prototypes
 - 🎨 Creative UI/UX & Web Design Projects
-- 📊 Streamlit Dashboards for AI/Data Analytics
+- 📊 Streamlit Dashboards for Python projects
 
 ---
 
@@ -63,10 +64,15 @@
   <a href="mailto:kaneezfatima374@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kaneez-fatima18/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaneez-fatima-09056132a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaneezfatima-portfolio.vercel.app/" target="_blank">
+
+  <a href="+923352667596" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact on WhatsApp" />
+</a>
+
+  <a href="https://my-personal-portfolio-one-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
