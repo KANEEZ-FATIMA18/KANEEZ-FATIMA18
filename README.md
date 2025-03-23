@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/sanity.io-FF4B4B?style=for-the-badge&logo=sanity.io&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-f627f?style=for-the-badge&logo=vercel.com&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  [![Chainlit](https://img.shields.io/badge/Built%20with-Chainlit-4B8DF8?style=for-the-badge&logo=chainlit&logoColor=white)](https://www.chainlit.io/)
 </p>
 ---
 
