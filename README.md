@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaneez Fatima</h1>
-<h3 align="center">👩‍💻 Student | Passionate Learner | Web Developer</h3>
+<h3 align="center">👩‍💻 Student | Passionate Learner |Future Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Explorer+and+Creative+Mind;Frontend+Web+Developer+%7C+AI+Enthusiast;Building+Agentic+AI+Solutions+%7C+Streamlit+Dashboards;Learning+by+Doing+and+Sharing!&center=true&width=1000&height=61&color=FF69B4&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
@@ -91,7 +91,6 @@
 
 ### 📌 Current Learning
 - ⚡ Agentic AI
-- 💡 Human-AI Collaboration Concepts
 - ✨ Full-Stack Projects with Modern UI Trends
 
 ---
