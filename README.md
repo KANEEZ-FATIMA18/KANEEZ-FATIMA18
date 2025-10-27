@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Kaneez Fatima ✨</h1>
+<h1 align="center">Hi, I'm Kaneez Fatima </h1>
 <h3 align="center">💻 Passionate MERN Stack Developer | Creative Frontend Designer</h3>
 
 <p align="center">
