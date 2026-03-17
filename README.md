@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3d1a6e,6b21a8,7c3aed&height=180&section=header&text=Kaneez%20Fatima&fontColor=e9d5ff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Figma%20to%20Code%20%C2%B7%20MERN%20Stack%20Learner&descAlignY=62&descColor=c4b5fd&animation=fadeIn" />
+<!-- Upload your LinkedIn banner image to your repo as "banner.png" -->
+<img width="100%" src="https://raw.githubusercontent.com/KANEEZ-FATIMA18/KANEEZ-FATIMA18/main/banner.png" alt="Kaneez Fatima - Frontend Developer" />
 
-<br/>
+<br/><br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Figma+to+Code+%E2%86%92+Pixel+Perfect;React.js+Specialist;Responsive+%26+Animated+UIs;Currently+Learning+Backend+%F0%9F%93%9A&center=true&width=500&height=45&color=C084FC&vCenter=true&size=17&pause=1200)
 
@@ -71,8 +72,6 @@ Currently learning **backend development** (Node.js, Express & MongoDB) to grow 
 <br/>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3d1a6e,6b21a8,7c3aed&height=110&section=footer&animation=fadeIn" />
 
 *`Code that Scales. Design that Sells.`*
 
