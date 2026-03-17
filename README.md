@@ -7,9 +7,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Figma+to+Code+%E2%86%92+Pixel+Perfect;React.js+Specialist;Responsive+%26+Animated+UIs;Currently+Learning+Backend+%F0%9F%93%9A&center=true&width=500&height=45&color=C084FC&vCenter=true&size=17&pause=1200)
 
-</div>
 
 ---
 
@@ -19,9 +17,6 @@ Frontend developer who takes design seriously — I specialize in converting **F
 
 Currently learning **backend development** (Node.js, Express & MongoDB) to grow into a complete MERN stack developer.
 
-```
-📍 Pakistan  ·  🎨 Figma to Code  ·  📚 Currently: Learning Backend
-```
 
 ---
 
