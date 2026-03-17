@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Upload your LinkedIn banner image to your repo as "banner.png" -->
-<img width="100%" src="https://raw.githubusercontent.com/KANEEZ-FATIMA18/KANEEZ-FATIMA18/main/banner.png" alt="Kaneez Fatima - Frontend Developer" />
+<img width="100%" src="https://raw.githubusercontent.com/KANEEZ-FATIMA18/KANEEZ-FATIMA18/main/CODE THAT SCALES, DESIGN THAT SELLS (7).png" alt="Kaneez Fatima - Frontend Developer" />
 
 <br/><br/>
 
